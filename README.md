@@ -40,7 +40,7 @@ Windows 和 macOS 都提供打好的安装包。这个仓库没有源码。
 
 ### macOS
 
-[OnionFlow-1.0-macos-universal.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.0/OnionFlow-1.0-macos-universal.zip)
+[OnionFlow-1.6-macos-universal.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.6/OnionFlow-1.6-macos-universal.zip)
 
 macOS 15 及以上，Apple Silicon 和 Intel 都能用。这个包没有开发者签名。解压后执行：
 
