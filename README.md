@@ -34,13 +34,13 @@ Windows 和 macOS 都提供打好的安装包。这个仓库没有源码。
 
 ### Windows
 
-[OnionFlow-1.6-win-x64.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.6/OnionFlow-1.6-win-x64.zip)
+[OnionFlow-1.7-win-x64.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.7/OnionFlow-1.7-win-x64.zip)
 
-64 位 Windows。解压后运行 `OnionFlow.App.exe`，不需要单独安装 .NET。
+64 位 Windows。这个包不包含 .NET 运行环境。请先安装 x64 的 .NET 10 桌面运行时和 ASP.NET Core 10 运行时，再运行 `OnionFlow.App.exe`。
 
 ### macOS
 
-[OnionFlow-1.6-macos-universal.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.6/OnionFlow-1.6-macos-universal.zip)
+[OnionFlow-1.7-macos-universal.zip](https://github.com/onionelle/OnionFlow-download/releases/download/v1.7/OnionFlow-1.7-macos-universal.zip)
 
 macOS 15 及以上，Apple Silicon 和 Intel 都能用。这个包没有开发者签名。解压后执行：
 
